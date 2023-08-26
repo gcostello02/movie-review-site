@@ -54,6 +54,7 @@ input {
     height: 350px;
     width: 300px;
     border-radius: 19px;
+    overflow: none;
 }
 
 .column {
@@ -67,5 +68,5 @@ input {
     padding: 15px;
     text-align: center;
     background-color: #151f30;
-    
+    max-height: 443px;
 }
